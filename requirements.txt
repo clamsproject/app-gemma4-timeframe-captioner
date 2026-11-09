@@ -1,0 +1,2 @@
+clams-python[llamaserver]==1.9.0
+mmif-python[cv]
